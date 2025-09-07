@@ -1,0 +1,27 @@
+body {
+    color: rgb(14, 8, 69);
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, #f79a9a, #f7cd75);
+    min-height: 100vh;
+}
+.card{
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+button{
+    background: #d2735c;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 24px;
+    cursor: pointer;
+    margin-top: 15px;
+
+}
